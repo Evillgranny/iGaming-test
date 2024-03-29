@@ -38,6 +38,7 @@ main {
   @media (max-width: 768px) {
     padding-top: 0;
     height: 100vh;
+    height: 100dvh;
     justify-content: space-between;
     overflow: hidden;
     flex-direction: column-reverse;
